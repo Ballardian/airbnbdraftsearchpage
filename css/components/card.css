@@ -1,0 +1,21 @@
+.card {
+  background-size: cover;
+  background-position: center;
+  color: white;
+  font-size: 20px;
+  text-align: center;
+  padding: 30px;
+  justify-content: center;
+  box-shadow: 0 0 15px rgba(0,0,0,0.2);
+  margin-bottom: 10px;
+  align-items: center;
+}
+
+.card-container {
+  flex: 0 0 60%;
+  justify-content: space-around;
+  padding: 30px;
+
+}
+
+
